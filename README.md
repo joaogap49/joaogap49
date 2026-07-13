@@ -42,5 +42,5 @@ Minha base principal de programação gira em torno de duas linguagens que utili
 
 Se quiser trocar uma ideia sobre faculdade, programação em C/C#, projetos com Unity ou gambiarras com Arduino e Impressão 3D, é só chamar:
 
-* **E-mail:** seuemail@gmail.com
+* **E-mail:** joaogap49@gmail.com
 * **GitHub:** [joaogap49](https://github.com/joaogap49)
